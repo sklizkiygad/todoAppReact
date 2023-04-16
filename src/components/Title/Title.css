@@ -1,0 +1,13 @@
+.title{
+    text-decoration: underline;
+    font-size: 45px;
+    margin-top: 12px;
+    margin-bottom: 7px;
+}
+@media (max-width: 480px) {
+    .title{
+        margin-top: 22px;
+        font-size: 35px;
+        margin-bottom: 12px;
+    }
+}

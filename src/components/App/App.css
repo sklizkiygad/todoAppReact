@@ -1,0 +1,12 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+@media (max-width: 480px) {
+    .app{
+        width: 300px;
+    }
+}
